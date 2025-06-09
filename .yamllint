@@ -20,3 +20,5 @@ rules:
 
 ignore:
   - roles/vendor/
+  - .venv
+  - .ansible
