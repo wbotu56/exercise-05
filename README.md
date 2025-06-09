@@ -1,4 +1,4 @@
-[![ansible-lint](https://github.com/wbotu56/exercise-05/actions/workflows/ansible-lint.yml/badge.svg?branch=dev)](https://github.com/wbotu56/exercise-05/actions/workflows/ansible-lint.yml)
+[![ansible-lint](https://github.com/wbotu56/exercise-05/actions/workflows/ansible-lint.yml/badge.svg?branch=uv)](https://github.com/wbotu56/exercise-05/actions/workflows/ansible-lint.yml)
 
 # exercise-05
 
