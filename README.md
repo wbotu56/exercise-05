@@ -31,9 +31,9 @@
 1. Создать виртуальное окружение
     - Установить uv
 
-    ```bash
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    ```
+        ```bash
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        ```
 
     - Создать виртуальное окружение при помощи uv
 
