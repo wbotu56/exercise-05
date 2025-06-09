@@ -1,0 +1,8 @@
+---
+- name: PostgreSQL
+  hosts: postgresql
+  become: true
+  roles:
+    - geerlingguy.postgresql
+  tags:
+    - postgresql

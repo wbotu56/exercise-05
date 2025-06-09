@@ -1,0 +1,4 @@
+---
+- import_playbook: playbooks/postgresql.yml
+  tags:
+    - postgresql
