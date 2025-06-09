@@ -29,22 +29,16 @@
 ## Запуск
 
 1. Создать виртуальное окружение
-    - Создать виртуальное окружение при помощи модуля venv
+    - Создать виртуальное окружение при помощи uv
 
         ```bash
-        python3 -m venv VIRTUAL_ENV_NAME
+        uv sync
         ```
 
     - Активировать созданное виртуальное окружение
 
         ```bash
-        source VIRTUAL_ENV_NAME/bin/activate
-        ```
-
-    - Установить зависимости из requirements.txt
-
-        ```bash
-        pip3 install -r requirements.txt
+        source .venv/bin/activate
         ```
 
 2. Развернуть виртуальную машину, описанную в Vagrantfile:

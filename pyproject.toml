@@ -7,6 +7,7 @@ dependencies = [
     "ansible-compat==24.10.0",
     "ansible-core==2.18.1",
     "ansible-lint>=25.1.0",
+    "argcomplete>=3.6.2",
     "attrs==24.3.0",
     "black==24.10.0",
     "bracex==2.5.post1",
